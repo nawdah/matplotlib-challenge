@@ -1,10 +1,8 @@
 # matplotlib-challenge
-
 ##Tumor Response to Treatment
-
 ![Tumor Response Image](/Pymaceuticals/tumor_response.png) ![Tumor Growth Image](/Pymaceuticals/tumor_change.png)
 
-As shown, the Capomulin drug reduced the size of the tumor growth, by 19%, among the mice over the 45 day timeframe the test was conducted. 
+As shown, the Capomulin drug reduced the size of the tumor growth, by 19%, among the mice over the 45 day timeframe the test was conducted.
 
 ##Metastatic Spread During Treatment
 
