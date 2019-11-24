@@ -1,11 +1,10 @@
 # matplotlib-challenge
 
 ## Tumor Response to Treatment
-<p align="center">
-  <img width="460" height="300" src="/Pymaceuticals/tumor_response.png">
-  <img width="460" height="300" src="/Pymaceuticals/tumor_change.png">
-</p>
 
+Tumor Response             |  Tumor Change
+:-------------------------:|:-------------------------:
+![Tumor Response Image](/Pymaceuticals/tumor_response.png)  |  ![Tumor Change Image](/Pymaceuticals/tumor_change.png)
 
 As shown, the Capomulin drug reduced the size of the tumor growth, by 19%, among the mice over the 45 day timeframe the test was conducted.
 
